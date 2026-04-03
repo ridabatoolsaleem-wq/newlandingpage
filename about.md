@@ -1,67 +1,15 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
 
-<div class="about-header">
-  <div class="avatar">RB</div>
-  <div>
-    <h1>Rida Batool</h1>
-    <p class="subtitle">Computer Science Student · Frontend Learner · Pakistan</p>
-  </div>
-</div>
+# About Me
 
-<div class="section">
-  <h2>About Me</h2>
-  <p>Hi! I'm Rida Batool, a beginner computer science student learning frontend web development. I practice building simple and responsive web pages using HTML, CSS, and JavaScript.</p>
-  <p>This blog is my personal journal where I document what I learn each week — from university lab tasks to small experiments I try on my own. Writing about what I learn helps me understand it better.</p>
-  <p>I'm currently focused on understanding layouts, responsive design, and basic JavaScript interactions. Every week I try to complete at least one small project or article.</p>
-</div>
+My name is **Rida Batool**, and I am a Computer Engineering student. I created this portfolio to share my academic journey, personal experiences, and learning development throughout my university semesters.
 
-<div class="section">
-  <h2>Skills I'm Learning</h2>
-  <div class="skills-grid">
-    <span class="skill-pill accent">HTML5</span>
-    <span class="skill-pill accent">CSS3</span>
-    <span class="skill-pill accent">JavaScript</span>
-    <span class="skill-pill">Flexbox</span>
-    <span class="skill-pill">CSS Grid</span>
-    <span class="skill-pill">Responsive Design</span>
-    <span class="skill-pill">GitHub Pages</span>
-    <span class="skill-pill">VS Code</span>
-  </div>
-</div>
+When I started Computer Engineering, I did not have a strong computer background, which made many subjects feel difficult in the beginning. Programming, especially Python, was one of the biggest challenges for me. However, with time, support from my instructors, regular class attendance, and repeated practice, I slowly became more confident in my studies.
 
-<div class="section">
-  <h2>Learning Milestones</h2>
-  <ul class="timeline">
-    <li>
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <strong>Submitted First Lab Website</strong>
-        <span>March 2026 — Complete HTML & CSS website for university lab</span>
-      </div>
-    </li>
-    <li>
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <strong>Learned Flexbox Layouts</strong>
-        <span>March 2026 — Built several practice pages using CSS Flexbox</span>
-      </div>
-    </li>
-    <li>
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <strong>Started This Blog</strong>
-        <span>April 2026 — Launched my practice journal on GitHub Pages</span>
-      </div>
-    </li>
-    <li>
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <strong>First JavaScript Exercise</strong>
-        <span>April 2026 — DOM manipulation and event listeners</span>
-      </div>
-    </li>
-  </ul>
-</div>
+This portfolio highlights my experiences in Programming Fundamentals, lab learning, quizzes, projects, database systems, and the lessons I learned from both my struggles and achievements.
+
+I believe that growth does not happen instantly. It comes through consistency, patience, responsibility, and the willingness to keep learning even when things feel difficult.
