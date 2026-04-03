@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 ---
 
 # My Academic Journey
-
-This section contains blog posts based on my semester journey, learning experiences, academic struggles, projects, and personal growth in Computer Engineering.
 
 <ul>
   {% for post in site.posts %}
