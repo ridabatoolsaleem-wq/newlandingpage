@@ -1,14 +1,3 @@
-title: "Rida Batool Blog"
-description: "Frontend Practice Journal — HTML, CSS & JavaScript"
-baseurl: "/newlandingpage"
-url: "https://ridabatoolsaleem-wq.github.io"
- 
-theme: null
-remote_theme: null
- 
-markdown: kramdown
-highlighter: rouge
- 
-plugins:
-  - jekyll-feed
- 
+title: Rida Batool Portfolio
+description: Academic journey, projects, and learning experiences of Rida Batool
+theme: jekyll-theme-cayman
